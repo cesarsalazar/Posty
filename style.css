@@ -1,0 +1,32 @@
+body{
+	font-family:'Lucida Grande',Verdana,'Bitstream Vera Sans',Arial,sans-serif;
+	font-size:0.9em;
+	line-height:1.5em;
+	margin: 0 auto;
+	width: 600px;
+}
+h1{
+	color: #961D9F;
+	font-size: 3em;
+}
+h2{
+	color: #961D9F;
+}
+p.hl{
+	font-weight: bold;
+	font-size: 1.2em;
+	color: #222222;
+}
+a{
+	color: #961D9F;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+.box{
+	margin: 10px 0;
+	padding: 10px;
+	background-color: #F0F0F0;
+	border: 1px solid #CCCCCC;
+}
